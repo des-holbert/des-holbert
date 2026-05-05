@@ -30,7 +30,7 @@ Everything in these repos was built in my home lab using VMware Workstation. Eac
 | Project | What I Built | Repo |
 |---|---|---|
 | **Active Directory Domain & User Management** | Stood up a Windows Server 2022 domain controller. Built an OU structure for a fake 50-person company (Pinnacle Solutions). Created 15 user accounts across 5 departments with security groups, shared folder permissions, and practiced onboarding/offboarding workflows. | [active-directory-homelab](https://github.com/des-holbert/active-directory-homelab) |
-| **Group Policy Objects** | Configured GPOs for password complexity, network drive mapping, wallpaper deployment, Control Panel restrictions, and software deployment — all linked to specific OUs. | Documented in AD repo |
+| **Group Policy Objects** | Configured GPOs for password complexity, network drive mapping, wallpaper deployment, Control Panel restrictions, and software deployment — all linked to specific OUs. | [powershell-ad-automation](https://github.com/des-holbert/powershell-ad-automation) |
 | **PowerShell Scripting for AD** | Wrote 6 scripts that automate real help desk tasks: bulk user creation from CSV, password resets, employee offboarding, AD audit reports, lockout detection, and bulk group membership updates. | [powershell-ad-automation](https://github.com/des-holbert/powershell-ad-automation) |
 
 ### 🔜 In Progress
